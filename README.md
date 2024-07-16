@@ -1,4 +1,4 @@
-<h1>Hi, I'm Naseer! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Naseer! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Student At Stonybrook</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -8,7 +8,7 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
 
-- <b>C# (.NET Desktop Applications)</b>
+- <b>Raspberry Pi Projects</b>
 
 - <b>Python</b>
  
