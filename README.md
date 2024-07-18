@@ -7,8 +7,8 @@
 - <b>Full Stack Web App (React, NodeJS, Mongo DB, Express)</b>
   - [FakeStackOverflow-WebApp
 ](https://github.com/nasAhmed-chss/FakeStackOverflow-WebApp/tree/main) <b><i>(Click here)</b></i>
-- <b>Bash Scripts</b>
-
+  - <b>Bash Scripts</b>
+  - [Projects](https://github.com/nasAhmed-chss/Bash-Scripts) <b><i>(Click here)</b></i>
 - <b>Raspberry Pi Projects</b>
 
 - <b>Python</b>
