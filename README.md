@@ -5,8 +5,9 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Mongo DB, Express)</b>
-  - [Link](https://github.com/nasAhmed-chss/FakeStackOverflow-WebApp/tree/main) <b><i>(Click here)</b></i>
-- <b>PowerShell</b>
+  - [FakeStackOverflow-WebApp
+](https://github.com/nasAhmed-chss/FakeStackOverflow-WebApp/tree/main) <b><i>(Click here)</b></i>
+- <b>Bash Scripts</b>
 
 - <b>Raspberry Pi Projects</b>
 
