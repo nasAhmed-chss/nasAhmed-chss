@@ -3,12 +3,17 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python]()
 - <b>Full Stack Web App (React, NodeJS, Mongo DB, Express)</b>
   - [FakeStackOverflow-WebApp
 ](https://github.com/nasAhmed-chss/FakeStackOverflow-WebApp/tree/main) <b><i>(Click here)</b></i>
   - <b>Bash Scripts</b>
   - [Projects](https://github.com/nasAhmed-chss/Bash-Scripts) <b><i>(Click here)</b></i>
+    
+
+- <b>Ruby Scripts</b>
+  - [Projects](https://github.com/nasAhmed-chss/ruby-scripts) <b><i>(Click here)</b></i>
+  
 - <b>Raspberry Pi Projects</b>
 
 - <b>Python</b>
