@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Data Structures and Algorithms Practice </b>
   - [Praciting DS & Algos in Python]()
 - <b>Full Stack Web App (React, NodeJS, Mongo DB, Express)</b>
   - [FakeStackOverflow-WebApp
