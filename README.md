@@ -1,9 +1,9 @@
-<h1>Hi, I'm Naseer! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Student At Stony Brook</a></h1>
+<h1>Hi, I'm Naseer! <br/><a href="https://github.com/nasAhmed-chss">Programmer</a>, <a href="https://www.linkedin.com/in/naseer-ks-ahmed/">Cybersecurity Student At Stony Brook</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice </b>
-  - [Praciting DS & Algos in Python]()
+- <b>Landing Page </b>
+  - [Landing Page](https://github.com/nasAhmed-chss/landingPage)
 - <b>Full Stack Web App (React, NodeJS, Mongo DB, Express)</b>
   - [FakeStackOverflow-WebApp
 ](https://github.com/nasAhmed-chss/FakeStackOverflow-WebApp/tree/main) <b><i>(Click here)</b></i>
@@ -18,4 +18,5 @@
 
 - <b>Python</b>
  
+
 
