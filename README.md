@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Landing Page </b>
-  - [Landing Page](https://github.com/nasAhmed-chss/landingPage)
+  - [Landing Page](https://nasahmed-chss.github.io/landingPage/)
 - <b>Full Stack Web App (React, NodeJS, Mongo DB, Express)</b>
   - [FakeStackOverflow-WebApp
 ](https://github.com/nasAhmed-chss/FakeStackOverflow-WebApp/tree/main) <b><i>(Click here)</b></i>
