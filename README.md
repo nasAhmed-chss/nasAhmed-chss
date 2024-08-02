@@ -14,7 +14,8 @@
 - <b>Ruby Scripts</b>
   - [Projects](https://github.com/nasAhmed-chss/ruby-scripts) <b><i>(Click here)</b></i>
   
-- <b>Raspberry Pi Projects</b>
+- <b>Inventory manager</b>
+  - [Projects](https://github.com/nasAhmed-chss/inventory-manger)<b><i>(Click here)</b></i>
 
 - <b>Python</b>
  
