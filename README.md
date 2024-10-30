@@ -1,30 +1,49 @@
-<h1>Hi, I'm Naseer! <br/><a href="https://github.com/nasAhmed-chss">Programmer</a>, <a href="https://www.linkedin.com/in/naseer-ks-ahmed/">Cybersecurity Student At Stony Brook</a></h1>
+# Hi, I'm Naseer!  
+<a href="https://github.com/nasAhmed-chss">
+  <img src="https://img.shields.io/badge/GitHub-Programmer-black?style=for-the-badge&logo=github" alt="GitHub">
+</a> 
+<a href="https://www.linkedin.com/in/naseer-ks-ahmed/">
+  <img src="https://img.shields.io/badge/LinkedIn-Cybersecurity_Student-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+---
 
-- <b>Landing Page </b>
-  - [Landing Page](https://nasahmed-chss.github.io/landingPage/)
-- <b>Full Stack Web App (React, NodeJS, Mongo DB, Express)</b>
-  - [FakeStackOverflow-WebApp
-](https://github.com/nasAhmed-chss/FakeStackOverflow-WebApp/tree/main) <b><i>(Click here)</b></i>
+## 👨‍💻 Software Development Projects:
 
-- <b>Election Data Website (React, NextJs, Mongo DB)</b>
-  - [Election Data Website](https://github.com/GitHubMahim/416-Project) <b><i>(Click here)</b></i>
+### 🚀 **Landing Page**  
+[![Landing Page](https://img.shields.io/badge/-Live%20Demo-green?style=for-the-badge)](https://nasahmed-chss.github.io/landingPage/)  
+![Landing Page Preview](https://via.placeholder.com/600x300?text=Landing+Page+Preview)
 
+---
 
+### 💻 **Full Stack Web App**  
+(React, NodeJS, MongoDB, Express)  
+[![FakeStackOverflow](https://img.shields.io/badge/GitHub-FakeStackOverflow-blue?style=for-the-badge)](https://github.com/nasAhmed-chss/FakeStackOverflow-WebApp/tree/main)  
+![Full Stack Web App](https://via.placeholder.com/600x300?text=FakeStackOverflow+WebApp+Preview)
 
+---
 
-  - <b>Bash Scripts</b>
-  - [Projects](https://github.com/nasAhmed-chss/Bash-Scripts) <b><i>(Click here)</b></i>
-    
+### 🗳️ **Election Data Website**  
+(React, Next.js, MongoDB)  
+[![Election Data Website](https://img.shields.io/badge/GitHub-Election_Data-orange?style=for-the-badge)](https://github.com/GitHubMahim/416-Project)  
+![Election Data Website](https://via.placeholder.com/600x300?text=Election+Website+Preview)
 
-- <b>Ruby Scripts</b>
-  - [Projects](https://github.com/nasAhmed-chss/ruby-scripts) <b><i>(Click here)</b></i>
-  
-- <b>Inventory manager</b>
-  - [Projects](https://github.com/nasAhmed-chss/inventory-manger)<b><i>(Click here)</b></i>
+---
 
-- <b>Python</b>
- 
+### 🛠️ **Bash Scripts**  
+[![Bash Projects](https://img.shields.io/badge/GitHub-Bash_Scripts-yellow?style=for-the-badge)](https://github.com/nasAhmed-chss/Bash-Scripts)
 
+---
 
+### 💎 **Ruby Scripts**  
+[![Ruby Projects](https://img.shields.io/badge/GitHub-Ruby_Scripts-red?style=for-the-badge)](https://github.com/nasAhmed-chss/ruby-scripts)
+
+---
+
+### 📦 **Inventory Manager**  
+[![Inventory Manager](https://img.shields.io/badge/GitHub-Inventory_Manager-purple?style=for-the-badge)](https://github.com/nasAhmed-chss/inventory-manger)
+
+---
+
+### 🐍 **Python Projects**  
+![Python](https://img.shields.io/badge/Python-Projects-informational?style=for-the-badge&logo=python)
