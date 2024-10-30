@@ -12,7 +12,9 @@
 
 ### 🚀 **Landing Page**  
 [![Landing Page](https://img.shields.io/badge/-Live%20Demo-green?style=for-the-badge)](https://nasahmed-chss.github.io/landingPage/)  
-![Landing Page Preview](https://via.placeholder.com/600x300?text=Landing+Page+Preview)
+
+![Landing Page Preview](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/Landing%20Page.png?raw=true)
+
 
 ---
 
