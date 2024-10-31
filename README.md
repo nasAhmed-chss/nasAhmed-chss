@@ -1,5 +1,5 @@
 # Hi, I'm Naseer! 👋  
-### Cybersecurity Student at Stony Brook University
+### Cyber security Student at Stony Brook University
 
 <a href="https://github.com/nasAhmed-chss">
   <img src="https://img.shields.io/badge/GitHub-Programmer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-I'm a resourceful and dedicated **Cybersecurity student** with a passion for software development, cybersecurity, and data-driven applications. I am constantly exploring new technologies, frameworks, and methodologies to deepen my expertise and stay up-to-date with the latest industry trends. I'm currently diving into **web application security** and **data protection**.
+I'm a resourceful and dedicated **Cybersecurity student** with a passion for software development, cyber security, and data-driven applications. I am constantly exploring new technologies, frameworks, and methodologies to deepen my expertise and stay up-to-date with the latest industry trends. I'm currently diving into **web application security** and **data protection**.
 
 ---
 
