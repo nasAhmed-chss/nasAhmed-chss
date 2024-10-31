@@ -18,17 +18,17 @@
 
 ---
 
+### 🗳️ **Election Data Website**  
+(React, Next.js, MongoDB)  
+[![Election Data Website](https://img.shields.io/badge/GitHub-Election_Data-orange?style=for-the-badge)](https://github.com/GitHubMahim/416-Project)  
+![Election Data Website](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/Website.png)
+
+---
+
 ### 💻 **Full Stack Web App**  
 (React, NodeJS, MongoDB, Express)  
 [![FakeStackOverflow](https://img.shields.io/badge/GitHub-FakeStackOverflow-blue?style=for-the-badge)](https://github.com/nasAhmed-chss/FakeStackOverflow-WebApp/tree/main)  
 ![Full Stack Web App](https://via.placeholder.com/600x300?text=FakeStackOverflow+WebApp+Preview)
-
----
-
-### 🗳️ **Election Data Website**  
-(React, Next.js, MongoDB)  
-[![Election Data Website](https://img.shields.io/badge/GitHub-Election_Data-orange?style=for-the-badge)](https://github.com/GitHubMahim/416-Project)  
-![Election Data Website](https://via.placeholder.com/600x300?text=Election+Website+Preview)
 
 ---
 
