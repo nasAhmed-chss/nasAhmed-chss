@@ -1,12 +1,12 @@
 # Hi, I'm Naseer! 👋  
 ### Cyber security Student at Stony Brook University
 
-<a href="https://github.com/nasAhmed-chss">
-  <img src="https://img.shields.io/badge/GitHub-Programmer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> 
+
 <a href="https://www.linkedin.com/in/naseer-ks-ahmed/">
   <img src="https://img.shields.io/badge/LinkedIn-Cybersecurity_Student-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
 
 ---
 
