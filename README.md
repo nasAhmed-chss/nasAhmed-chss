@@ -1,14 +1,15 @@
 # Hi, I'm Naseer!  
 <a href="https://github.com/nasAhmed-chss">
-  <img src="https://img.shields.io/badge/GitHub-Programmer-black?style=for-the-badge&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Programmer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a> 
 <a href="https://www.linkedin.com/in/naseer-ks-ahmed/">
-  <img src="https://img.shields.io/badge/LinkedIn-Cybersecurity_Student-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Cybersecurity_Student-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 ---
 
 ## 👨‍💻 Software Development Projects:
+
 
 ### 🚀 **Landing Page**  
 [![Landing Page](https://img.shields.io/badge/-Live%20Demo-green?style=for-the-badge)](https://nasahmed-chss.github.io/landingPage/)  
