@@ -30,7 +30,7 @@
 ### 💻 **Full Stack Web App**  
 (React, NodeJS, MongoDB, Express)  
 [![FakeStackOverflow](https://img.shields.io/badge/GitHub-FakeStackOverflow-0052cc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nasAhmed-chss/FakeStackOverflow-WebApp/tree/main)  
-![Full Stack Web App](https://via.placeholder.com/600x300?text=FakeStackOverflow+WebApp+Preview)
+![Full Stack Web App](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/WebApp.png)
 
 ---
 
