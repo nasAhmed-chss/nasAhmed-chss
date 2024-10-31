@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-I'm a resourceful and dedicated **Cybersecurity student** with a passion for software development, cyber security, and data-driven applications. I am constantly exploring new technologies, frameworks, and methodologies to deepen my expertise and stay up-to-date with the latest industry trends. I'm currently diving into **web application security** and **data protection**.
+I'm a resourceful and dedicated **Cyber security student** with a passion for software development, cyber security, and data-driven applications. I am constantly exploring new technologies, frameworks, and methodologies to deepen my expertise and stay up-to-date with the latest industry trends. I'm currently diving into **web application security** and **data protection**.
 
 ---
 
