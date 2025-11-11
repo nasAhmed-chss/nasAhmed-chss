@@ -1,5 +1,5 @@
 # Hi, I'm Naseer! 👋  
-### Cyber security Student at Stony Brook University
+### Masters Student at Stony Brook University
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> 
 
