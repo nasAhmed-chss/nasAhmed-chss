@@ -36,6 +36,15 @@ I'm a resourceful and dedicated **Masters student** with a passion for software 
 [![Landing Page](https://img.shields.io/badge/-Live%20Demo-2d2e2f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nasahmed-chss.github.io/landingPage/)  
 ![Landing Page Preview](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/Landing%20Page.png?raw=true)
 
+### 🎹 Adaptive Keyboard Accuracy App  
+(React, Next.js, Framer Motion, TailwindCSS)
+
+[![Adaptive Keyboard App](https://img.shields.io/badge/-GitHub_Repo-2d2e2f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nasAhmed-chss/keyboard_accuracy_testing)  
+![Adaptive Keyboard App Preview](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/KeyboardApp.png?raw=true)
+
+
+
+
 ### 📊 Election Data Website  
 (React, Next.js, MongoDB)  
 [![Election Data Website](https://img.shields.io/badge/GitHub-Election_Data-f76300?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GitHubMahim/416-Project)  
