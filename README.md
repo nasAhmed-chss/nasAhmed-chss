@@ -39,9 +39,9 @@ I'm a resourceful and dedicated **Masters student** with a passion for software 
 ### 🎹 Adaptive Keyboard Accuracy App  
 (React, Next.js, Framer Motion, TailwindCSS)
 
-[![Adaptive Keyboard App](https://img.shields.io/badge/-GitHub_Repo-2d2e2f?style=for-the-badge&logo=github&logoColor=white)
-![Adaptive Keyboard App Preview](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/KeyboardApp.png?raw=true)
-](https://keyboard-accuracy-testing.vercel.app/)
+[![Adaptive Keyboard App](https://img.shields.io/badge/-GitHub_Repo-2d2e2f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nasAhmed-chss/keyboard_accuracy_testing)
+[![Adaptive Keyboard App Preview](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/KeyboardApp.png?raw=true)](https://keyboard-accuracy-testing.vercel.app/)
+
 
 
 
