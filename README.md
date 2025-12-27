@@ -34,7 +34,7 @@ I'm a resourceful and dedicated **Masters student** with a passion for software 
 
 ### 🌐 Landing Page
 [![Landing Page](https://img.shields.io/badge/-Live%20Demo-2d2e2f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nasahmed-chss.github.io/landingPage/)  
-![Landing Page Preview](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/Landing%20Page.png?raw=true)[https://landing-page-sigma-tawny.vercel.app/]
+[![Landing Page Preview](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/Landing%20Page.png?raw=true)](https://landing-page-sigma-tawny.vercel.app/)
 
 ### 🎹 Adaptive Keyboard Accuracy App  
 (React, Next.js, Framer Motion, TailwindCSS)
