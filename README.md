@@ -47,7 +47,7 @@ I'm a resourceful and dedicated **Masters student** with a passion for software 
 (Next.js, TypeScript)
 
 [![Network Scan Visualizer](https://img.shields.io/badge/-GitHub_Repo-2d2e2f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nasAhmed-chss/Network-Scan-Visualizer)  
-[![Network Scan Visualizer Preview](https://raw.githubusercontent.com/nasAhmed-chss/nasAhmed-chss/main/NetScanProj.png)](https://github.com/nasAhmed-chss/Network-Scan-Visualizer)
+[![Network Scan Visualizer Preview](https://raw.githubusercontent.com/nasAhmed-chss/nasAhmed-chss/main/NetScanProj.png)](https://network-scan-visualizer.vercel.app/)
 
 
 
