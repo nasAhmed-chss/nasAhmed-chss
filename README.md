@@ -43,6 +43,11 @@ I'm a resourceful and dedicated **Masters student** with a passion for software 
 [![Adaptive Keyboard App Preview](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/KeyboardApp.png?raw=true)](https://keyboard-accuracy-testing.vercel.app/)
 
 
+### 🛡️ Network Scan Visualizer  
+(Next.js, TypeScript)
+
+[![Network Scan Visualizer](https://img.shields.io/badge/-GitHub_Repo-2d2e2f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nasAhmed-chss/Network-Scan-Visualizer)  
+[![Network Scan Visualizer Preview](https://github.com/nasAhmed-chss/Network-Scan-Visualizer/blob/main/NetScanProj.png?raw=true)](https://github.com/nasAhmed-chss/Network-Scan-Visualizer)
 
 
 
