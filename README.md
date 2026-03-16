@@ -41,6 +41,35 @@ I'm a resourceful and dedicated **Masters student** with a passion for software 
 [![Adaptive Keyboard App](https://img.shields.io/badge/-GitHub_Repo-2d2e2f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nasAhmed-chss/keyboard_accuracy_testing)
 [![Adaptive Keyboard App Preview](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/KeyboardApp.png?raw=true)](https://keyboard-accuracy-testing.vercel.app/)
 
+### 📊 Income vs Health County Data  
+(Data Visualization, Python, D3.js)
+
+[![Income vs Health Repo](https://img.shields.io/badge/-GitHub_Repo-2d2e2f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nasAhmed-chss/Income_vs_Health_County_Data)
+
+[![Income vs Health Preview](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/Lab1_website.png?raw=true)](https://github.com/nasAhmed-chss/Income_vs_Health_County_Data)
+
+An interactive data visualization project analyzing the relationship between **county-level income and health outcomes across the United States**.  
+The project integrates socioeconomic datasets to explore correlations between **median income, poverty levels, and public health indicators** using interactive visualizations.
+
+
+
+### 🏥 US County Health Analytics  
+(Data Visualization, PCA, Clustering, Interactive Dashboard)
+
+[![US County Health Analytics Repo](https://img.shields.io/badge/-GitHub_Repo-2d2e2f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nasAhmed-chss/US-County-Health-Analytics)
+
+[![County Health Plots](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/Lab2a_Plots.png?raw=true)](https://github.com/nasAhmed-chss/US-County-Health-Analytics)
+
+[![County Health Dashboard](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/Lab2a_web.png?raw=true)](https://github.com/nasAhmed-chss/US-County-Health-Analytics)
+
+A comprehensive **county-level health analytics dashboard** applying **Principal Component Analysis (PCA)** and **K-Means clustering** to uncover patterns in public health and socioeconomic indicators.
+
+The project includes:
+
+- PCA dimensionality reduction analysis  
+- Interactive scree plots and biplots  
+- K-Means clustering visualization  
+- Exploratory analysis of health and economic factors across U.S. counties
 
 ### 🛡️ Network Scan Visualizer  
 (Next.js, TypeScript)
