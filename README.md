@@ -46,7 +46,7 @@ I'm a resourceful and dedicated **Masters student** with a passion for software 
 
 [![Income vs Health Repo](https://img.shields.io/badge/-GitHub_Repo-2d2e2f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nasAhmed-chss/Income_vs_Health_County_Data)
 
-[![Income vs Health Preview](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/Lab1_website.png?raw=true)](https://github.com/nasAhmed-chss/Income_vs_Health_County_Data)
+[![Income vs Health Preview](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/Lab1_website.png?raw=true)](https://income-vs-health-county-data-ml2k.vercel.app/)
 
 An interactive data visualization project analyzing the relationship between **county-level income and health outcomes across the United States**.  
 The project integrates socioeconomic datasets to explore correlations between **median income, poverty levels, and public health indicators** using interactive visualizations.
@@ -57,10 +57,10 @@ The project integrates socioeconomic datasets to explore correlations between **
 (Data Visualization, PCA, Clustering, Interactive Dashboard)
 
 [![US County Health Analytics Repo](https://img.shields.io/badge/-GitHub_Repo-2d2e2f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nasAhmed-chss/US-County-Health-Analytics)
-[![County Health Dashboard](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/Lab2a_web.png?raw=true)](https://github.com/nasAhmed-chss/US-County-Health-Analytics)
+[![County Health Dashboard](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/Lab2a_web.png?raw=true)](https://us-county-health-analytics.vercel.app/)
 
-[![County Health Plots](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/Lab2a_Plots.png?raw=true)](https://github.com/nasAhmed-chss/US-County-Health-Analytics)
-[![County Health Plots](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/Lab2a_Plots2.png?raw=true)](https://github.com/nasAhmed-chss/US-County-Health-Analytics)
+[![County Health Plots](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/Lab2a_Plots.png?raw=true)](https://us-county-health-analytics.vercel.app/)
+[![County Health Plots](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/Lab2a_Plots2.png?raw=true)](https://us-county-health-analytics.vercel.app/)
 
 
 
