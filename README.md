@@ -57,10 +57,13 @@ The project integrates socioeconomic datasets to explore correlations between **
 (Data Visualization, PCA, Clustering, Interactive Dashboard)
 
 [![US County Health Analytics Repo](https://img.shields.io/badge/-GitHub_Repo-2d2e2f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nasAhmed-chss/US-County-Health-Analytics)
+[![County Health Dashboard](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/Lab2a_web.png?raw=true)](https://github.com/nasAhmed-chss/US-County-Health-Analytics)
 
 [![County Health Plots](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/Lab2a_Plots.png?raw=true)](https://github.com/nasAhmed-chss/US-County-Health-Analytics)
+[![County Health Plots](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/Lab2a_Plots2.png?raw=true)](https://github.com/nasAhmed-chss/US-County-Health-Analytics)
 
-[![County Health Dashboard](https://github.com/nasAhmed-chss/nasAhmed-chss/blob/main/Lab2a_web.png?raw=true)](https://github.com/nasAhmed-chss/US-County-Health-Analytics)
+
+
 
 A comprehensive **county-level health analytics dashboard** applying **Principal Component Analysis (PCA)** and **K-Means clustering** to uncover patterns in public health and socioeconomic indicators.
 
